@@ -23,10 +23,7 @@
   ],
   "files": [
     "src/args.ts",
-    "src/build/analyzer.ts",
     "src/build/build.ts",
-    "src/build/bundle.ts",
-    "src/build/html-project.ts",
     "src/build/optimize.ts",
     "src/build/prefetch.ts",
     "src/build/streams.ts",
@@ -58,7 +55,6 @@
     "custom_typings/node.d.ts",
     "custom_typings/plylog.d.ts",
     "custom_typings/temp.d.ts",
-    "custom_typings/vinyl-fs.d.ts",
     "custom_typings/web-component-tester.d.ts",
     "custom_typings/yeoman-environment.d.ts",
     "custom_typings/yeoman-generator.d.ts",
